@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/mind22space">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Passionate+Developer;Always+learning+new+things" alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mind22space&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mind22space&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
