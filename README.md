@@ -66,10 +66,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>📧 Email (mind22space@robosys.app) is currently being set up</em>
-</p>
-
 ---
 
 <p align="center">
